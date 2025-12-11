@@ -1,0 +1,8 @@
+streamlit>=1.0
+numpy
+pandas
+scikit-learn
+tensorflow>=2.0; platform_system!='Windows' or python_version>='3.8'
+matplotlib
+plotly
+pydantic
